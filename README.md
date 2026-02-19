@@ -1,0 +1,3 @@
+This is meant to be a condensed and simplified version of the [EasyTPP](https://github.com/ant-research/EasyTemporalPointProcess) implementation of [S2P2](https://neurips.cc/virtual/2025/loc/san-diego/poster/119744).
+
+I sought to do this in order to better acquaint myself with this model from the ground up for my PhD studies. There is an explanatory Jupyter notebook that I feel will explain some of the more tricky/unexplained nuances of the code.
